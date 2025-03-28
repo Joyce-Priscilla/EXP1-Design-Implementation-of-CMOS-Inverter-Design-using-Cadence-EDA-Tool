@@ -91,8 +91,11 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
+
+
  
 ![Screenshot 2025-02-28 143333](https://github.com/user-attachments/assets/917a208e-92c7-4b07-829a-0eeaa14703d2)
+
 
 ![Screenshot 2025-03-28 113657](https://github.com/user-attachments/assets/55da8b90-afbd-4394-9607-33bea23403ae)
 
